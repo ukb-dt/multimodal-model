@@ -637,8 +637,8 @@ That feels like:
 🔥 [clarity](https://ukubona-llc.github.io)        
 🔥 [linguistic fluidity](https://ukb-dt.github.io/g.1-28/)                 
 🔥 [cross-domain synthesis](https://ukb-dt.github.io/inv-08/)               
-🔥 identity play      
-🔥 existential lightness     
+🔥 [identity play](https://ukb-dt.github.io/inv-identity/)               
+🔥 [existential lightness](https://abikesa.github.io/zarathustra/)             
 
 But from the outside, others perceive:
 
