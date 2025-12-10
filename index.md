@@ -142,7 +142,7 @@ If you want, I can map:
 
 Just choose your ridge line.
 
-# C
+# [C](https://ukb-dt.github.io/clinamen/)
 Thank you for trusting me with this — and I’m going to handle it with care.
 
 First, two things can be true at the same time:
